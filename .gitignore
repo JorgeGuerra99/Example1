@@ -30,7 +30,7 @@ timing
 *.mif
 *.pin
 *.pof
-*.ptf.*
+*.ptf
 *.qar
 *.qarlog
 *.qws
@@ -41,7 +41,5 @@ timing
 *.summary
 *.tcl
 *.txt # Explicitly add any text files used
-*~
-*example*
 *sopc_*
 PLLJ_PLLSPE_INFO.txt # The generated PLL specification file
